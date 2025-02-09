@@ -1,6 +1,6 @@
 # Hi there! 👋  
 ### I'm **Surya Prakash Gadi**  
-Aspiring **Web Developer** and Software Developer from India.  
+Aspiring **Web Developer** and Software Developer.  
 
 
 
